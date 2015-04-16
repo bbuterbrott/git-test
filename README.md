@@ -1,1 +1,2 @@
-Master text
+# git-test
+merged text
